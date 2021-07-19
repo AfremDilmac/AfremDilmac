@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afrem</h1>
 <h3 align="center">A student in computer science at Odisee</h3>
 
-- 🌱 I’m currently learning **AI -> python, mobile app & web development -> android studio, kotlin & html, css, javascript **
+- 🌱 I’m currently learning **AI -> python, mobile app & web development -> android studio, kotlin & html, css, javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
